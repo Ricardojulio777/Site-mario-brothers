@@ -15,4 +15,4 @@ Projeto elaborado, com um pouco mais  de conhecimentos e linguagem!
 <h2>formulario 2 aba    <a>➡clique aqui para visitar o site⬅</a></h2>    
 <br>
 <img src="https://github.com/Ricardojulio777/Site-mario-brothers/blob/master/img/Captura%20de%20Tela%20(18).png?raw=true"/>
-<a>➡clique a para visitar o site⬅</a>
+<a href="https://ricardojulio777.github.io/Site-mario-brothers/">➡clique aqui para visitar o site⬅</a>
